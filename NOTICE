@@ -1,0 +1,4 @@
+This repo bundles resource files (css, js) that have been originally developed by the jsonnet project (available at https://github.com/google/jsonnet),
+which is available under a "Apache v2.0" license.
+
+This repo bundles a version of CodeMirror (available at https://github.com/codemirror), which is available under a "MIT" license.
